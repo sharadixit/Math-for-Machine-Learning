@@ -7,6 +7,7 @@ In this part we have covered
 
 
 # Vector Operation in Python part2
+In this part we have covered 
 1. Dot Product
 2. Cross Product
 3. Projection Of A Vector On V Vector
