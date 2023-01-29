@@ -13,7 +13,7 @@ In this part we have covered
 3. Projection Of A Vector On V Vector
 
 
-# Working with matrix in python
+# Working with Matrix in Python
 In this part we have covered 
 1. Creating a Matrix using numpy
 2. Creating Matrix With Random Values
