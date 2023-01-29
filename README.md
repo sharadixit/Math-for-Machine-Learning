@@ -20,3 +20,11 @@ In this part we have covered
 3. Matrix with all the value is one
 4. Identity Matrix
 5. Transpose of a Matrix
+
+
+# Matrix Operation in Python
+In this part we have covered 
+1. Matrix Addition
+2. Matrix Subtraction
+3. Matrix Multiplication
+4. Matrix Wise Multiply
